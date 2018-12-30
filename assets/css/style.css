@@ -53,3 +53,22 @@
 .titleMessage .heading .sub {
     font-size: 26px;
 }
+
+.section {
+    padding: 100px 0;
+
+}
+
+.aboutImage {
+    max-width: 68%;
+    border-radius: 10px;
+    box-shadow: 15px 22px 35px 0 rgba(0,0,0,0.5);
+}
+
+#inEnglish-tab img {
+    width: 20px;
+}
+
+#inRussian-tab img {
+    width: 20px;
+}
