@@ -1,3 +1,10 @@
+body {
+    font-size: 14px;
+    color: rgba(45, 52, 54,1.0);
+    letter-spacing: 1px;
+    background: rgba(236, 240, 241,1.0);
+}
+
 .overlay {
     width: 100%;
     height: 100%;
@@ -71,4 +78,9 @@
 
 #inRussian-tab img {
     width: 20px;
+}
+
+.skillsSection {
+    background: rgba(44, 62, 80,1.0);
+    color: rgba(236, 240, 241,1.0);
 }
