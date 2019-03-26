@@ -158,3 +158,46 @@ body {
 .chart .percent::after {
     content: '%';
 }
+
+.squareItem {
+    margin: 40px;
+    position: relative;
+}
+
+.squreInnerContainer {
+    position: relative;
+    padding: 50px 15px 35px;
+    text-align: center;
+    border: 4px solid darkgray;
+    border-top: none;
+}
+
+.squreInnerContainer:before, 
+.squreInnerContainer:after {
+    content: '';
+    position: absolute;
+    top: 0px;
+    width: 34%;
+    border: 2px solid darkgray;
+}
+
+.squreInnerContainer:before {
+    right: 0px;
+}
+
+.squreInnerContainer:after {
+    left: 0px;
+}
+
+.squareContent h2 {
+    font-size: 58px;
+    margin-bottom: 10px;
+    font-weight: 500;
+    color: #62acff;
+}
+
+.squareContent h3 {
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 0;
+}
