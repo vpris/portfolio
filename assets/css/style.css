@@ -201,3 +201,17 @@ body {
     font-weight: bolder;
     margin: 0;
 }
+
+
+.squareIcon {
+    font-size: 45px;
+    position: absolute;
+    top: -42px;
+    left: 30%;
+    width: 42%;
+    color: #60abff;
+    height: 65px;
+}
+
+
+
