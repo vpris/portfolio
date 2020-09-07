@@ -6,7 +6,7 @@ $(document).ready(function () {
     });
 
     let typed = new Typed(".typed", {
-        strings: ["Frontend Web Developer", "HTML5/CSS3/a little JS", "Student at Udemy and Geekbrains"],
+        strings: ["DevOps Engineer", "HTML5/CSS3/JS/PHP", "Python/Flask/Bash/Go/"],
         typeSpeed: 75,
         loop: true,
         startDelay: 1500,
